@@ -1,0 +1,3 @@
+[submodule "cursoAlgoritmoGuanabara"]
+	path = cursoAlgoritmoGuanabara
+	url = git@github.com:CharlieBellow/Algoritmo-logica-de-programacao.git
